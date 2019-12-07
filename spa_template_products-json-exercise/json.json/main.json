@@ -1,0 +1,18 @@
+[{
+    "brand" : "Apple",
+    "model" : "Macbook Pro 13",
+    "price" : 12000,
+    "img" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp13touch-space-select-201807?wid=904&hei=840&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1529520060550"
+  },
+  {
+    "brand" : "Apple",
+    "model" : "Macbook Pro 15",
+    "price" : 21000,
+    "img" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp13touch-space-select-201807?wid=904&hei=840&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1529520060550"
+  },
+  {
+    "brand" : "ASUS",
+    "model" : "Zenbook 14",
+    "price" : 4555,
+    "img" : "https://c1.neweggimages.com/ProductImage/34-235-078-V19.jpg"
+  }]
